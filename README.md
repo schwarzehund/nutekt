@@ -17,7 +17,7 @@ Users can create custom:
 ## STEP 1 
 
 Communicate NTS-1 with laptop by USB cable and open [Librarian](https://www.korg.com/us/support/download/product/0/832/#software) a Korg NTS-1 software
-<img src= >
+<img src= https://github.com/schwarzehund/nutekt/blob/main/img/korg.png>
 
 ## STEP 2 
 
@@ -27,16 +27,20 @@ There's bunch of effects available [here](https://korginc.github.io/logue-sdk/un
 
 1. Open link
 2. Select interesting part (let's say Oscillators)
+<img src = https://github.com/schwarzehund/nutekt/blob/main/img/list.png>
+<img src = https://github.com/schwarzehund/nutekt/blob/main/img/osc.png>
 3. Click on selected one -> you should be navigated to github
 4. Download file with .prlgunit 
 5. Open Librarian make sure NTS-1 is connected (in case problems with connection -> Options -> Preferences -> MIDI IN -> KORG NTS )
+<img src =https://github.com/schwarzehund/nutekt/blob/main/img/pref.png>
+<img src = https://github.com/schwarzehund/nutekt/blob/main/img/midi.png>
 6. Drag and drop downloaded file to apt tab (in case trying to add to wrong tab there should be error message)
 7. Send all 
-<img src = sendall>
+<img src=https://github.com/schwarzehund/nutekt/blob/main/img/Screenshot_1.png>
 
 **Result:** 
 
 New oscillator should be available on your machine! 
-<img korg1>
 
+<img src = https://github.com/schwarzehund/nutekt/blob/main/img/korg1.jpg>
 
