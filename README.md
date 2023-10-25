@@ -16,7 +16,7 @@ Users can create custom:
 
 ## STEP 1 - Librarian
 
-Communicate NTS-1 with laptop by USB cable and open [Librarian](https://www.korg.com/us/support/download/product/0/832/#software) a Korg NTS-1 software
+Connect NTS-1 with laptop by USB cable and open [Librarian](https://www.korg.com/us/support/download/product/0/832/#software) a Korg NTS-1 software
 <img src= https://github.com/schwarzehund/nutekt/blob/main/img/korg.png>
 
 ## STEP 2 - Importing files to hardware
