@@ -1,3 +1,5 @@
+//AUDIOTEC CODE 
+
 #include "usermodfx.h"
 #include "float_math.h"
 
